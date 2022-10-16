@@ -1,14 +1,12 @@
 # getGeoJson
 
-This template should help get you started developing with Vue 3 in Vite.
+echarts 地图 geoJson 数据下载
 
-## Recommended IDE Setup
+### 实现
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+-   使用高德的行政区等 api 获取地图的 GeoJosn 数据
+-   直接在`index.html`中映入高德 AMapUI -使用到的 api
+    -   AMapUI 组件中的行政区划浏览
 
 ## Project Setup
 
