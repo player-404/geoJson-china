@@ -1,7 +1,7 @@
 # getGeoJson
 
 最新 geoJson 数据下载
-[网址](https://player-404.github.io/map-geoJson/)
+[网址](https://player-404.github.io/geoJson-china/)
 
 ### 实现
 
