@@ -1,6 +1,6 @@
 # getGeoJson
 
-echarts 地图 geoJson 数据下载
+最新 geoJson 数据下载
 [网址](https://player-404.github.io/map-geoJson/)
 
 ### 实现
