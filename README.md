@@ -1,6 +1,6 @@
 # getGeoJson
 
-最新 geoJson 数据下载
+中国地图 最新 geoJson 数据下载
 [网址](https://player-404.github.io/geoJson-china/)
 
 ### 实现
@@ -10,20 +10,3 @@
 -   使用到的 api
     -   AMapUI 组件中的行政区划浏览
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
